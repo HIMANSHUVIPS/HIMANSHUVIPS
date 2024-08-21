@@ -1,5 +1,5 @@
-[![MasterHead](![Screenshot 2024-08-17 091221](https://github.com/user-attachments/assets/fe3370e8-d2b6-4ccf-8b9b-5b397a0b689a)
-)](https://rishavchanda.io)
+[(![Screenshot 2024-08-17 091221](https://github.com/user-attachments/assets/fe3370e8-d2b6-4ccf-8b9b-5b397a0b689a)
+)]
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">Crafting dynamic web experiences with a passion for design and code, I specialize in creating interactive and visually stunning websites. Based in India, I’m dedicated to pushing the boundaries of frontend development.</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
